@@ -1,0 +1,7 @@
+.env
+__pycache__/
+venv/
+slack.csv
+remaining.csv
+enriched_linkedin.csv
+enrichment_errors.log
